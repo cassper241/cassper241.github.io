@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://cassper241.github.io/
     children:
-      -title: "Category"
-      url: /categories/
-      -title: "tag"
+  -title: "Category"
+    url: /categories/
+  -title: "shopping"
       url: /tags/
 
 
