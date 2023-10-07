@@ -2,8 +2,13 @@
 main:
   - title: "Home"
     url: https://cassper241.github.io/
-    # - title: "About"
-  #   url: /about/
+    children:
+      -title: "Category"
+      url: /categories/
+      -title: "tag"
+      url: /tags/
+
+
   # - title: "Github"
   #   url: https://github.com/github-accout/cassper2421.githu.io
   # - title: "Sample Collections"
