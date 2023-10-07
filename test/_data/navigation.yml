@@ -59,3 +59,26 @@ sidebar-sample:
         url: /child-page-d2/
       - title: "Child Page D3 (External)"
         url: https://your-domain.com
+    categories:
+  - title: "Information and Issues"
+    children:
+      - title: "Categories1"
+        url: /categories/categories1/
+      - title: "Categories2"
+        url: /categories/categories2/
+      - title: "Categories3"
+        url: /categories/categories3/
+      - title: "Categories4"
+        url: /categories/categories4/
+
+  - title: "Sopping"
+    children:
+      - title: "Categories5"
+        url: /categories/categories5/
+      - title: "Categories6"
+        url: /categories/categories6/
+
+  - title: "Daily"
+    children:
+      - title: "Categories7"
+        url: /categories/categories7/    
