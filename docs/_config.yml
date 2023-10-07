@@ -72,9 +72,17 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : &twitter "@Gimmis87"
+  url: "https://www.twitter.com/Gimmis87
 facebook:
-  username               : &facebook "michaelrose"
+  username               : &facebook "k.m.j87"
+  url: "https://www.facebook.com/k.m.j87"
+instagram:
+  username: "k.m.j.87"
+  url: "https://www.instagram.com/k.m.j87
+Youtube:
+  username: "힐링사운드_너에게 Healing Sound to you"
+  url: "https://www.youtube.com/channel/UCz4es_AqS3qOo1J6VHulCLg"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -97,12 +105,12 @@ analytics:
 
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  name             : "cassper241"
   avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  bio              : "cassper241의 블로그 입니다."
+  location         : "South Korea"
   links:
-    - label: "Made Mistakes"
+    - label: "Email"
       icon: "fas fa-fw fa-link"
       url: "https://mademistakes.com"
     - label: "Twitter"
